@@ -11,7 +11,7 @@ Ouvrir une fenetre Admin de Powershell et tapez la commande suivante:
 
 irm https://get.activated.win | iex
 
-Appuyer sur "7" et faire "4" et "0"
+Appuyer sur "7" --> "4" --> "0"
 
 Ouvrir le ISO dans Explorateur Windows
 
@@ -20,3 +20,13 @@ Exécuter le script Upgrade-LTSC.bat
 
 
 Rapidement exécuter le fichier setup.exe dans le DVD de Windows 10 et suivre les étapes (Normalement l'option "Garder les fichiers et les applications" devrais etre là) et faire "Installer"
+
+Réouvrir une fenetre Admin de Powershell et tapez la commande suivante: 
+
+irm https://get.activated.win | iex
+
+Appuyer sur "7" --> faire "1" --> "une touche" --> "1" --> "une touche" --> "0"
+
+Redémarrez le PC 
+
+ENJOY LES MISE À JOURS JUSQU'AU 13 JANVIER 2032
