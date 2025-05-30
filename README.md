@@ -11,7 +11,7 @@ Ouvrir une fenetre Admin de Powershell et tapez la commande suivante:
 
 irm https://get.activated.win | iex
 
-Appuyer sur "7" --> "4" --> "0"
+Appuyer sur "7" --> "6" (IoTEnterprise) --> "0"
 
 Ouvrir le ISO dans Explorateur Windows
 
